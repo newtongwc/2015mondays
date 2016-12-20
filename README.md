@@ -1,2 +1,2 @@
-# ada-lovelace
+# 2015 Mondays
 Monday night session
